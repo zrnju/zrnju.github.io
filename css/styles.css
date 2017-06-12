@@ -56,11 +56,18 @@ input:focus, textarea:focus {
 /*	border-bottom: 1px solid #555;*/
 }
 
-h1, h2, h3 {
-/*	font-family: 'Crimson Text', sans-serif;*/
-	letter-spacing: 1px;
-	font-weight: 300;
-	margin-bottom: 20px;
+h1 {
+    /*	font-family: 'Crimson Text', sans-serif;*/
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-bottom: 60px;
+}
+
+h2, h3 {
+    /*	font-family: 'Crimson Text', sans-serif;*/
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-bottom: 20px;
 }
 
 .navbar-brand {
