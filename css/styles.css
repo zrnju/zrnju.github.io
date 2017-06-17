@@ -16,6 +16,19 @@ button {
   text-decoration: none;
 }
 
+center {
+	color: #999;
+	font-size: 0.8rem;
+	/*font-style:italic;*/
+}
+
+i {
+	color: #999;
+	font-size: 1.2rem;
+	font-style: italic;
+	text-align: center;
+}
+
 button:hover {
 	color: #000;
 	border: solid #000 2px;
